@@ -1,4 +1,4 @@
-# Deep-LEarning-CV-Hackathon
+# Deep-Learning-CV-Hackathon
 
 This repositoy contains two folders : Problem Statement Part 1 (For Hackathon Model) and Problem Statement Part 2 (For report on FCN in Autonomous Vehicle)
 
